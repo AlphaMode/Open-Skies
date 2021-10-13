@@ -1,0 +1,13 @@
+name = "oωo"
+filename = "owo-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.3.0/owo-0.3.0.jar"
+hash-format = "sha512"
+hash = "62dca8d8ec6e6931f5a5bcab862fb5174a1e1b1440520cadc444c9a9bbed2246ff9145171c6f1e78ec2303c5b373379ee8693c288a0143cecba96ea21ccf7070"
+
+[update]
+[update.modrinth]
+mod-id = "ccKDOlHs"
+version = "ERFRuuW5"

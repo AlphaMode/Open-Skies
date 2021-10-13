@@ -1,1 +1,156 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "684e76a8486eb5b2d19c23ff5e7bbc37580fc9885037694ea935bfd2571532e3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "d6d09a89de0ff4eb76cb0e7d5bb3848a2f7e989c6ef80073cbe58103ffe3971c"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.toml"
+hash = "b796d9fe220784a25e5d72c1bb29eb1933c832b1a07b5f9965082d3c5adefa93"
+metafile = true
+
+[[files]]
+file = "mods/charm.toml"
+hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "311ca79bcaeb1d78c207e8059f05225bb05842b7b0dda3c54859d5d5b4e9d908"
+metafile = true
+
+[[files]]
+file = "mods/conjuring.toml"
+hash = "6410f5823b0e80c43b19f99aedf6ede532a1e8b74ea61a04920eec17a5a91cc7"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.toml"
+hash = "05dc84693e06ebf9a5cb97e3c38de3a3163bcb799aab43b1a15e3802ef2b51ac"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e243b7c64a133ca70d4408ef2a3f569986e80ae6814ae3e2c26b94a3a3a5557b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "f946c365b017cdaa064e255a5a81c1665f3ac9526fd1bfa7eaf6c20e14994027"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "b42263e988c2fdd6b428f4fbbeab222d6db34890778099b7714be61d158e9aff"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.toml"
+hash = "a3b93302af287c7428831e2d5da352167db7391babe4a32d90b7243386b2403e"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
+metafile = true
+
+[[files]]
+file = "mods/interactic.toml"
+hash = "455924ce4867cf276f2f35c73a21eed1b3a5e87b6b10baa3d899458073bd34e2"
+metafile = true
+
+[[files]]
+file = "mods/isometric-renders.toml"
+hash = "65776f5c5e25622a7149c5860098dee67587dfe7498124f38046485b7d1d19ff"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-fabric.toml"
+hash = "dffffeb51199d4f3e93a1bf070937cd8b03e5a51391fe8167d31bfcceb7545e5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.toml"
+hash = "e991025d78866176c1d02be60dc09f417f877b6822ec802353bbc25a258d5f52"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "3af260ca28e4c1c1a56bbe496a43ac757b49123f33468131d3589df4c8591033"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "fe74a25b12c31d2b21c940eadc74b89ecf1d814cbb2c11276048032ccdba0590"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.toml"
+hash = "bc50f1791d12a28db664e974f4a40a89ea9170b57b058f1e62f598b854499ec5"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "4a352bea63665dfbb5b014ddcc23e31cb0b456a1e0fdec955b1907bef5d2a272"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "3274c9617a047febffb5d1b874715cf3fe684ecc767b01f959e4fe44459b7da7"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "9869c0013be98b75033d94f2171993713c56d0ad8181d6d84cf721fb01f61066"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.toml"
+hash = "d58ba2a35f7c4c5cd888fd3d13218ad5ea7007b4b6f3a10835fb055c9569af2c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "db3149534a6ae08ffde31519b35b19cf3afdda1a28ab33bf7d2dec302b9c3e08"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "bfd03e06dc151983a5c7d8d8ea4a8612999058fd9084dc3450b6aec2bf6417ae"
+metafile = true
+
+[[files]]
+file = "mods/things.toml"
+hash = "2bb2152da78a58c1e87b45474571b7eccd1a43a672711dd234f7ecef340cc3b1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.toml"
+hash = "3a9cff3fc6b8c4d4bd9020ff3c23ee4e86fc29b82a75751df8a6825ec9e4378d"
+metafile = true
+
+[[files]]
+file = "mods/victus.toml"
+hash = "cc1c6309e443ead53770d6eb8ce6872a3efa62d6229c353f1ae6e85f513c9778"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "1bcf28cdd69152d0d610bf61ef1de197c801304e3787df45de25ea32f682d4bd"
+metafile = true

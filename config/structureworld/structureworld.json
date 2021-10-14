@@ -1,0 +1,26 @@
+{
+  "createPlatformPermissionLevel": 0,
+  "teleportToPlatformPermissionLevel": 0,
+  "platformDistanceRadius": 1000,
+  "structureWorldConfigs": [
+    {
+      "structureIdentifier": "island",
+      "biomeIdentifier": "minecraft:forest",
+      "structureOffset": [
+        0,
+        0,
+        0
+      ],
+      "playerSpawnOffset": [
+        0,
+        16,
+        0
+      ],
+      "fillmentBlockIdentifier": "minecraft:air",
+      "topBedrockEnabled": false,
+      "bottomBedrockEnabled": false,
+      "isBedrockFlat": false,
+      "overridingDefault": true
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/structureworld/structures/island.nbt"
+hash = "fa9d999a9d170a40bade1150a346f4c2348a487b63a3970e26e199a87beb57ce"
+
+[[files]]
+file = "config/structureworld/structureworld.json"
+hash = "da66e41ddd082d584d5f76ffa374df4697e2e80c687f7a6b062d87cd6a5dca44"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "684e76a8486eb5b2d19c23ff5e7bbc37580fc9885037694ea935bfd2571532e3"
 metafile = true
@@ -76,11 +84,6 @@ hash = "65776f5c5e25622a7149c5860098dee67587dfe7498124f38046485b7d1d19ff"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-fabric.toml"
-hash = "dffffeb51199d4f3e93a1bf070937cd8b03e5a51391fe8167d31bfcceb7545e5"
-metafile = true
-
-[[files]]
 file = "mods/lithium.toml"
 hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
 metafile = true
@@ -101,8 +104,17 @@ hash = "fe74a25b12c31d2b21c940eadc74b89ecf1d814cbb2c11276048032ccdba0590"
 metafile = true
 
 [[files]]
+file = "mods/open-skies-1.0.jar"
+hash = "2aa4bb879eb3da04469980b8d441f7ccf4ca02f483a65a9af9c6e5a9339b1075"
+
+[[files]]
 file = "mods/owo-lib.toml"
 hash = "bc50f1791d12a28db664e974f4a40a89ea9170b57b058f1e62f598b854499ec5"
+metafile = true
+
+[[files]]
+file = "mods/pal.toml"
+hash = "3dde6106bcaf56c09bb4d040c608f28d0a693ec03b7504afe587c5e9710f2acb"
 metafile = true
 
 [[files]]
@@ -128,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "db3149534a6ae08ffde31519b35b19cf3afdda1a28ab33bf7d2dec302b9c3e08"
+metafile = true
+
+[[files]]
+file = "mods/structure-world.toml"
+hash = "d16589204c98a1df7a12959fc5c9931b961319cd3ebdd2c0078c10c7181e7e42"
 metafile = true
 
 [[files]]

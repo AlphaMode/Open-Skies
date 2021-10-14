@@ -13,13 +13,18 @@ file = "mods/Controlling-For-Fabric-1.2.0.jar"
 hash = "fd77c76ec6dd19ae18d69b5a507f67fb828b4d1815ddb4fe9306832480dc718b"
 
 [[files]]
+file = "mods/aether-reborn.toml"
+hash = "452a79a2862fd90a9e289fcb8eeced1c3481f136ed6d017f6ac9587a1d1b48dd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "11c6f458265d4ebd40623fa14ce51ecfd394ccd36f237361eec34c2860a978c7"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ed09dca15afe93a283e91a1e4b5c588ecaed115ae7dacd10d28a0d07daeced6d"
+hash = "6d759c7b44bcbf6dd77a63d5fd82ff7cb1aa6005b6f3732032f51a421d859698"
 metafile = true
 
 [[files]]
@@ -39,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring.toml"
-hash = "83bf1789a0fa423dc6e368ddb2f1332dc046efec206ed1883b4b302425ada0c7"
+hash = "9babbc688bc78d0c557c94488c3c1b8a89e483ff1397e07ca4091a4d2544717e"
 metafile = true
 
 [[files]]
@@ -79,12 +84,22 @@ metafile = true
 
 [[files]]
 file = "mods/interactic.toml"
-hash = "08cfa338aabf1b9727d9e9a207a9b82f7dd85fa7bd43f3737767bd9df545985f"
+hash = "32e04815efe0229bd0b74ad58f3bdf49eaad9fb46d3d45c5223b77dc80b61281"
 metafile = true
 
 [[files]]
 file = "mods/isometric-renders.toml"
 hash = "0412581f2244f0a24f6654581cebacc1b0e94fa98bee0b2c17db8ec442220ce9"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-extras.toml"
+hash = "89c25ae077665e72396ef34adc8889c313217da7b9051172fe9c22677c79427c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-fabric.toml"
+hash = "dffffeb51199d4f3e93a1bf070937cd8b03e5a51391fe8167d31bfcceb7545e5"
 metafile = true
 
 [[files]]
@@ -94,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "a5082399e18cebf35886d876ebc6ac4f274b605c0781bf24e13cd5619065ea7f"
+hash = "e991025d78866176c1d02be60dc09f417f877b6822ec802353bbc25a258d5f52"
 metafile = true
 
 [[files]]
@@ -133,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "9626262291aab02f3407b07725f76961c12fa98c6c874afcbab7f6e8bc759bba"
+hash = "d6414687727b792820d5826c5fed4894992ff2f478ad9059bda7af8c8d837698"
 metafile = true
 
 [[files]]
